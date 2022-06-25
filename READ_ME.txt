@@ -1,0 +1,1 @@
+To use the matlab script go to Robotic_Surgery_Instrument and just press run
